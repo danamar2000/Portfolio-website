@@ -4,7 +4,7 @@ function Dan() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Hello world</h1>
+      <h1>uuuuuu fuckin geniussssssssssssssss</h1>
       </header>
     </div>
   );
