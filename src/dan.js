@@ -4,9 +4,16 @@ function Dan() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>uuuuuu fuckin geniussssssssssssssss</h1>
+        <div>
+          <div class="hero-text">
+            <h1>I am Dan</h1>
+            <p>And I'm a CyberSecurity Analyst</p>
+            <button>Hire me</button>
+          </div>
+        </div>
       </header>
     </div>
   );
 }
+
 export default Dan
