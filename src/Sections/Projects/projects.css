@@ -1,0 +1,22 @@
+.projects-container {
+  width: 100%;
+  height: 800px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.project-box {
+  width: 600px;
+  height: 400px;
+  border: 4px solid white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.project-box:hover {
+  width: 650px;
+  height: 450px;
+  border: 2px solid lightgrey;
+}
