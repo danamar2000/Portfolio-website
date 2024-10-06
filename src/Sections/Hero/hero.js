@@ -1,17 +1,14 @@
 import './hero.css';
-import Button from '../../Components/Buttons/button'
-import Hero from '../../Assets/heroimage.jpg'
+import heroimage1 from './../../Assets/heroimage1.jpg';
 
 function Dan() {
   return (
     <div className="App">
       <header className="App-header">
         <div class="hero-container">
-          <img class="hero-image" src={Hero} alt="heroimage"/>
+          <img class="hero-image" src={heroimage1} alt="heroimage"/>
           <div class="hero-text">
-            <h1>I am dan</h1>
-            <p>I'm a CyberSecurity Analyst</p>
-            <Button text="Hire Me"/>
+            <p>I'm a <strong class="hero-image-heading">CyberSecurity</strong> Analyst</p>
           </div>
         </div>
       </header>
