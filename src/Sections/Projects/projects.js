@@ -9,17 +9,13 @@ function Projects() {
         <div class="projects-box-container">
           <div class="project-box">
             <p>Project 1</p>
-
           </div>
           <div class="project-box">
-          <p>Project 2</p>
-
+            <p>Project 2</p>
           </div>
           <div class="project-box">
-          <p>Project 3</p>
-
+            <p>Project 3</p>
           </div>
-
         </div>
       </div>
     </div>
