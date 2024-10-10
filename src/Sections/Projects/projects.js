@@ -7,13 +7,13 @@ function Projects() {
       <div class="projects-heading">
         <Heading text="Projects"/>
         <div class="projects-box-container">
-          <div class="project-box">
+          <div class="project-box project-box-h1">
             <p>Project 1</p>
           </div>
-          <div class="project-box">
+          <div class="project-box project-box-h1">
             <p>Project 2</p>
           </div>
-          <div class="project-box">
+          <div class="project-box project-box-h1">
             <p>Project 3</p>
           </div>
         </div>

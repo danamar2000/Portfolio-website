@@ -1,6 +1,12 @@
 .about-me-container {
-  background-color: black;
-  border: 1px solid red;
+  background-color: firebrick;
+  margin-top: 200px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
 }
 
 .about-me-boxes {
@@ -11,13 +17,39 @@
   justify-content: space-around;
 }
 .education-container {
-  width: 800px;
-  height: 400px;
+  width: 650px;
+  height: 600px;
   background-color: white;
+  font-family: "Exo 2", sans-serif;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .experience-container {
-  width: 600px;
-  height: 400px;
+  width: 650px;
+  height: 600px;
   background-color: white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.about-me-p {
+  font-family: "Exo 2", sans-serif;
+  font-size: x-large;
+  font-weight: 500;
+  color: firebrick;
+}
+
+.about-me-h1 {
+  color: white;
+  font-family: "Silkscreen", sans-serif;
+  font-size: xx-large;
+  font-optical-sizing: auto;
+  font-weight: 523;
+  font-style: normal;
+  border-radius: 10px;
 }
