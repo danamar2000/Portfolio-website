@@ -9,6 +9,16 @@
   padding-top: 100px;
 }
 
+.about-me-heading-container {
+  width: 300px;
+  height: 80px;
+  border-radius: 10px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
 .about-me-boxes {
   display: flex;
   align-items: center;
@@ -16,6 +26,17 @@
   height: 700px;
   justify-content: space-around;
 }
+
+.about-me-h1 {
+  color: white;
+  font-family: "Silkscreen", sans-serif;
+  font-size: xx-large;
+  font-optical-sizing: auto;
+  font-weight: 523;
+  font-style: normal;
+  border-radius: 10px;
+}
+
 .education-container {
   width: 650px;
   height: 600px;
@@ -39,17 +60,6 @@
 
 .about-me-p {
   font-family: "Exo 2", sans-serif;
-  font-size: x-large;
-  font-weight: 500;
-  color: firebrick;
-}
-
-.about-me-h1 {
-  color: white;
-  font-family: "Silkscreen", sans-serif;
   font-size: xx-large;
-  font-optical-sizing: auto;
-  font-weight: 523;
-  font-style: normal;
-  border-radius: 10px;
+  font-weight: 500;
 }
